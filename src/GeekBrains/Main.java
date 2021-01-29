@@ -1,7 +1,5 @@
 package GeekBrains;
 
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -45,6 +43,9 @@ public class Main {
         System.out.println("Часть седьмая");
         String string1 = new String("Сергей");
         writeHello(string1);
+
+        //Часть 8
+        System.out.println("");
 
 
     }
